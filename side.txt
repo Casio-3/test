@@ -1,2 +1,3 @@
 side
 let's go
+when i switched back to side, the another.txt disappeared temporarily. Now i'm going to lengthen my side way.
